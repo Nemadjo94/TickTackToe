@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Tic tac toe game for two players made in React
 
 ## Available Scripts
 
